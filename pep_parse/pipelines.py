@@ -9,7 +9,6 @@ import csv
 import datetime as dt
 
 from collections import defaultdict
-from itemadapter import ItemAdapter
 
 from pep_parse.settings import RESULTS_DIR
 
